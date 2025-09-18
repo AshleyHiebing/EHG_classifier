@@ -1,2 +1,2 @@
 # EHG_classifier
-(WIP) Uses PhysioNet EHG data and Random Forests (scikit-learn) to predict pregnancy outcomes
+(WIP) Uses PhysioNet electrohysterogram (EHG) data, Random Forests (scikit-learn), and Deep Neural Networks (PyTorch) to analyze SHG signals and predict pregnancy outcomes
